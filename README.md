@@ -1,2 +1,2 @@
 # simple-reduxtoolkit
-Created with CodeSandbox
+A Simple counter to test out redux toolkit
